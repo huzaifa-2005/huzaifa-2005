@@ -16,7 +16,7 @@ I'm currently navigating my **Computer Systems Engineering journey** while learn
 
 ## 📂 Notable Project
 🔹 **Python CRUD App** - A lightweight database management system (DBMS) for structured data storage and retrieval.  
-➡️ [GitHub Repository](https://github.com/huzaifa-2005/Python-CRUD-App) (Will update with new projects soon!)  
+➡️ [GitHub Repository] (https://github.com/huzaifa-2005/Python-CRUD-App) (Will update with new projects soon!)  
 
 ## 🌍 Open Source & Collaboration
 - ✅ I’m **open to contributing** to open-source projects.  
@@ -26,7 +26,7 @@ I'm currently navigating my **Computer Systems Engineering journey** while learn
 ![Huzaifa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=huzaifa-2005&show_icons=true&theme=radical)  
 
 ## 📬 Let's Connect!
-🔗 [GitHub](https://github.com/huzaifa-2005)  
+🔗 [GitHub] (https://github.com/huzaifa-2005)  
 🔗 [LinkedIn](#) *(https://www.linkedin.com/in/huzaifa-ahmed-7843ba336/)*  
 
 ---
