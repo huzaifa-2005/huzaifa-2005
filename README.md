@@ -1,8 +1,12 @@
+<p align="center">
+  <img src="cover.png" alt="Huzaifa Ahmed" />
+</p>
+
 # 👋 Hi, I'm Huzaifa Ahmed!
 
-🚀 **Aspiring Software Engineer | Full-Stack Developer in Progress**  
+🚀 **Aspiring Software Engineer**  
 🎓 **Computer Systems Engineering Student (Graduating in 2028)**  
-💡 **Passionate about software development, adaptability, and learning new technologies**  
+💡 **Passionate about pioneering software solutions with an adaptive and forward-thinking approach. 🚀**  
 
 ## 📌 About Me
 I'm currently navigating my **Computer Systems Engineering journey** while learning the **pure basics of full-stack development** alongside my university studies. My **goal is to become a Software Engineer**, but I believe in staying **extremely adaptable** to emerging technologies, including **AI**, to provide the best and most up-to-date services.  
