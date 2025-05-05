@@ -20,7 +20,8 @@ I'm currently navigating my **Computer Systems Engineering journey** while learn
 
 ## 📂 Notable Project
 🔹 **Python CRUD App** - A lightweight database management system (DBMS) for structured data storage and retrieval.  
-➡️ [GitHub Repository] (https://github.com/huzaifa-2005/Python-CRUD-App) (Will update with new projects soon!)  
+➡️ [GitHub Repository] (https://github.com/huzaifa-2005/Python-CRUD-App) 
+➡️ [GitHub Repository] (https://github.com/huzaifa-2005/Car-Rental-System.git)                         
 
 ## 🌍 Open Source & Collaboration
 - ✅ I’m **open to contributing** to open-source projects.  
