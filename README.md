@@ -23,6 +23,7 @@ I'm currently navigating my **Computer Systems Engineering journey** while learn
 ➡️ [GitHub Repository] (https://github.com/huzaifa-2005/Python-CRUD-App)
 
 🔹 **AutoFleetX** - A Django-based car rental web application with PostgreSQL backend, secure Google OAuth authentication, REST API-powered email notifications alongwith a responsive frontend. 
+
 ➡️ [GitHub Repository] (https://github.com/huzaifa-2005/autofleetx)                       
 
 ## 🌍 Open Source & Collaboration
