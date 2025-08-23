@@ -12,17 +12,18 @@
 I'm currently navigating my **Computer Systems Engineering journey** while learning the **pure basics of full-stack development** alongside my university studies. My **goal is to become a Software Engineer**, but I believe in staying **extremely adaptable** to emerging technologies, including **AI**, to provide the best and most up-to-date services.  
 
 ## 🛠️ Technologies & Skills
-- **Programming:** Python (Currently), JavaScript (Next)  
-- **Backend Development:** Flask (Currently Learning), Django (Next)  
-- **Database Management:** SQLite, CSV-based storage (Python CRUD App)  
+- **Programming:** Python , JavaScript  
+- **Backend Development:** Flask, Django, FastAPI  
+- **Database Management:** Postgresql, SQLite, CSV-based storage (Python CRUD App)  
 - **Version Control:** Git & GitHub  
-- **Exploring:** Full-Stack Web Development (To Be Explored After Current Learning Phase)  
+- **Exploring:** Full-Stack Web Development.  
 
-## 📂 Notable Project
+## 📂 Notable Projects
 🔹 **Python CRUD App** - A lightweight database management system (DBMS) for structured data storage and retrieval.  
 ➡️ [GitHub Repository] (https://github.com/huzaifa-2005/Python-CRUD-App)
 
-➡️ [GitHub Repository] (https://github.com/huzaifa-2005/Car-Rental-System.git)                         
+🔹 **AutoFleetX** - A Django-based car rental web application with PostgreSQL backend, secure Google OAuth authentication, REST API-powered email notifications alongwith a responsive frontend. 
+➡️ [GitHub Repository] (https://github.com/huzaifa-2005/autofleetx)                       
 
 ## 🌍 Open Source & Collaboration
 - ✅ I’m **open to contributing** to open-source projects.  
