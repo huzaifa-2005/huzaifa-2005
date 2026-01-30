@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cover.png" alt="Huzaifa Ahmed" />
+   <img src="cover.png" alt="Huzaifa Ahmed" />
 </p>
 
 # 👋 Hi, I'm Huzaifa Ahmed!
