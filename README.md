@@ -50,14 +50,10 @@ My goal is to become a **professional AI-focused software engineer**, designing 
 - ✅ Open to **contributing to open-source projects**  
 - ✅ Excited to **collaborate on AI-integrated and full-stack applications**  
 
----
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huzaifa-2005&show_icons=true&theme=radical" alt="Huzaifa's GitHub Stats" />
-</p>
+![Huzaifa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=huzaifa-2005&show_icons=true&theme=radical)
 
----
 
 ## 📬 Let's Connect!
 🔗 [GitHub](https://github.com/huzaifa-2005)  
