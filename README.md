@@ -53,7 +53,9 @@ My goal is to become a **professional AI-focused software engineer**, designing 
 ---
 
 ## 📊 GitHub Stats
-![Huzaifa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=huzaifa-2005&show_icons=true&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=huzaifa-2005&show_icons=true&theme=radical" alt="Huzaifa's GitHub Stats" />
+</p>
 
 ---
 
