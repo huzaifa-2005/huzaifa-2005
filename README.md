@@ -4,28 +4,33 @@
 
 # 👋 Hi, I'm Huzaifa Ahmed!
 
-🚀 **Aspiring Software Engineer**  
-🎓 **Computer Systems Engineering Student (Graduating in 2028)**  
-💡 **Passionate about pioneering software solutions with an adaptive and forward-thinking approach.**  
+🚀 **AI-Powered Full-Stack Developer**  
+🎓 **Computer Systems Engineering (NEDUET'28)**  
+💡 **Passionate about building scalable and production-ready software solutions using modern technologies and AI-driven approaches.**
 
 ---
 
 ## 📌 About Me
-I'm currently navigating my **Computer Systems Engineering journey** while learning the **foundations of full-stack development** alongside my university studies.  
-My **goal is to become a Software Engineer**, and I strive to stay **extremely adaptable** to emerging technologies, including **AI**, to provide the most innovative and up-to-date solutions.  
+I am an **AI-powered full-stack developer**, actively building web and AI-integrated applications while pursuing my Computer Systems Engineering degree.  
+
+My goal is to become a **professional AI-focused software engineer**, designing and delivering **practical, innovative, and scalable solutions**. I enjoy exploring new frameworks and technologies, continuously enhancing my skills, and translating ideas into impactful software.  
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/> 
 </p>
@@ -33,17 +38,17 @@ My **goal is to become a Software Engineer**, and I strive to stay **extremely a
 ---
 
 ## 📂 Notable Projects
-🔹 **Python CRUD App** - A lightweight database management system (DBMS) for structured data storage and retrieval.  
-➡️ [GitHub Repository](https://github.com/huzaifa-2005/Python-CRUD-App)
+**🔹 AutoFleetX** — A full-stack web application for car rentals with Django, PostgreSQL, secure Google OAuth authentication, REST API-powered email notifications, and a responsive frontend.  
+➡️ [GitHub Repository](https://github.com/huzaifa-2005/autofleetx)  
 
-🔹 **AutoFleetX** - A Django-based car rental web application with PostgreSQL backend, secure Google OAuth authentication, REST API-powered email notifications, and a responsive frontend.  
-➡️ [GitHub Repository](https://github.com/huzaifa-2005/autofleetx)                     
+**🔹 StudyBud** — A full-stack, Discord-style web app for creating and participating in real-time, topic-based study rooms with role-based access and REST API support.  
+➡️ [GitHub Repository](https://github.com/huzaifa-2005/StudyBud)  
 
 ---
 
 ## 🌍 Open Source & Collaboration
-- ✅ I’m **open to contributing** to open-source projects.  
-- ✅ Always excited to **collaborate on innovative projects**.  
+- ✅ Open to **contributing to open-source projects**  
+- ✅ Excited to **collaborate on AI-integrated and full-stack applications**  
 
 ---
 
@@ -58,6 +63,4 @@ My **goal is to become a Software Engineer**, and I strive to stay **extremely a
 
 ---
 
-💡 *I'm always learning and growing—stay tuned for more projects!* 🚀
-
-
+💡 *Actively learning, building, and evolving—stay tuned for AI-powered full-stack projects!* 🚀
